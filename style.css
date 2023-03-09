@@ -20,4 +20,5 @@ body{
     align-items: center;
     justify-content: center;
     background-color: var(--body-bg-color);
+    color: var(--text-color);
 }
