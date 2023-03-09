@@ -16,5 +16,6 @@
 }
 body{
     min-height: 100vh;
-    display: ;
+    display: flex;
+    align-items: ;
 }
