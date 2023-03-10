@@ -23,5 +23,7 @@ body{
     color: var(--text-color);
 }
 .container{
-    width: ;
+    width: 100vh;
+    display: flex;
+    align-items: center;
 }
