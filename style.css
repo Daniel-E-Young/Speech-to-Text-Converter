@@ -43,4 +43,4 @@ body{
 .container .options div:not(:last-child) select {
     margin-bottom: 20px;
 }
-.container
+.container .options
