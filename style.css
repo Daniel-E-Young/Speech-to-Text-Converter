@@ -40,4 +40,4 @@ body{
     border-radius: 5px;
     outline: none;
 }
-.container .options div:not()
+.container .options div:not(:last-child)
