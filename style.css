@@ -40,4 +40,6 @@ body{
     border-radius: 5px;
     outline: none;
 }
-.container .options div:not(:last-child)
+.container .options div:not(:last-child) select{
+    
+}
