@@ -41,5 +41,5 @@ body{
     outline: none;
 }
 .container .options div:not(:last-child) select {
-    
+    margin-bottom: ;
 }
