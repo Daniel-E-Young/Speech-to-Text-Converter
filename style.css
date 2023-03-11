@@ -50,4 +50,6 @@ body{
     color: var(--light-text-color);
 }
 
-.container
+.container .line{
+    position: relative;
+}
