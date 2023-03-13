@@ -79,3 +79,6 @@ body{
 .btn ion-icon{
     font-size: 30px;
 }
+.btn:disabled{
+    
+}
