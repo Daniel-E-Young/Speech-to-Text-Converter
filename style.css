@@ -81,4 +81,5 @@ body{
 }
 .btn:disabled{
     background-color: var(--light-text-color);
+    cursor: ;
 }
