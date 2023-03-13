@@ -89,4 +89,6 @@ body{
     display: none;
     color: white;
 }
-.container
+.container .record.recording img{
+    
+}
