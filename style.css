@@ -92,5 +92,7 @@ body{
 .container .record.recording img{
     display: block;
 }
-.container .record.recording
+.container .record.recording ion-icon{
+    
+}
 
