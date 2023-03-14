@@ -100,5 +100,6 @@ body{
     min-height: 200px;
     padding: 10px;
     border: 1px solid var(--light-text-color);
+    border-radius: 5px;
 }
 
