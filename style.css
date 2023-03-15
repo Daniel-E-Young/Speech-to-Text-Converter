@@ -107,6 +107,7 @@ body{
     color: var(--text-color);
 }
 .container .result{
-    display: inline
+    display: inline;
+    
 }
 
