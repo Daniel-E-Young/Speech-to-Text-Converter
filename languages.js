@@ -20,7 +20,7 @@ const languages = [
     {
         no: "3",
         name: "Arabic",
-        native:  "عربي",
-        code: "en",
+        native: "عربي",
+        code: "ar",
     }
 ]
