@@ -8,7 +8,7 @@ const languages = [
     {
         no: "1",
         name: "Afrikaans",
-        native: "English",
+        native: "Afrikaans",
         code: "en",
     }
 ]
