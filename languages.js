@@ -22,5 +22,8 @@ const languages = [
         name: "Arabic",
         native: "عربي",
         code: "ar",
+    },
+    {
+        
     }
 ]
