@@ -109,6 +109,6 @@ body{
 .container .result{
     display: inline;
     margin-left: 3px;
-    color: ;
+    color: var();
 }
 
