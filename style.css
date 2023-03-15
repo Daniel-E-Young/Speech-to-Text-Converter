@@ -1,20 +1,21 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
 
-:root{
+:root {
     --primary-color: #356aff;
-    --bgcolor: #fff;
+    --bg-color: #fff;
     --text-color: #000;
     --light-text-color: #a5a5a5;
     --body-bg-color: #f5f5f5;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif ;
+    font-family: "Poppins", sans-serif;
 }
-body{
+
+body {
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -22,35 +23,40 @@ body{
     background-color: var(--body-bg-color);
     color: var(--text-color);
 }
-.container{
-    width: 100vh;
+
+.container {
+    width: 400px;
     padding: 20px;
     border-radius: 10px;
-    background-color: var(--bgcolor);
+    background-color: var(--bg-color);
 }
-.container .heading{
+
+.container .heading {
     font-size: 25px;
     font-weight: 500;
     margin-bottom: 10px;
 }
-.container .options select{
+
+.container .options select {
     width: 100%;
     padding: 10px;
     border: 1px solid var(--light-text-color);
     border-radius: 5px;
     outline: none;
 }
+
 .container .options div:not(:last-child) select {
     margin-bottom: 20px;
 }
-.container .options p{
+
+.container .options p {
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 5px;
     color: var(--light-text-color);
 }
 
-.container .line{
+.container .line {
     position: relative;
     width: 100%;
     height: 1px;
@@ -58,7 +64,26 @@ body{
     opacity: 0.5;
     margin: 30px 0;
 }
-.btn{
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+    height: 60px;
+    padding: 20px;
+    width: 100%;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    color: #fff;
+    background-color: var(--primary-color);
+}
+.btnclear{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -76,26 +101,31 @@ body{
     color: #fff;
     background-color: crimson;
 }
-.btn ion-icon{
+.btn ion-icon {
     font-size: 30px;
 }
-.btn:disabled{
+
+.btn:disabled {
     background-color: var(--light-text-color);
     cursor: not-allowed;
 }
-.container .record img{
+
+.container .record img {
     width: 30px;
     height: 30px;
     display: none;
     color: white;
 }
-.container .record.recording img{
+
+.container .record.recording img {
     display: block;
 }
-.container .record.recording ion-icon{
+
+.container .record.recording ion-icon {
     display: none;
 }
-.container .result{
+
+.container .result {
     width: 100%;
     min-height: 200px;
     padding: 10px;
@@ -106,14 +136,14 @@ body{
     margin-bottom: 20px;
     color: var(--text-color);
 }
-.container .result{
+
+.container .result p {
     display: inline;
     margin-left: 3px;
-    color: var(--text-color);
+    color: var(--light-text-color);
 }
-.buttons{
+
+.buttons {
     display: flex;
     gap: 20px;
 }
-
-
