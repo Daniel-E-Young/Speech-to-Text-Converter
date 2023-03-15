@@ -9,6 +9,12 @@ const languages = [
         no: "1",
         name: "Afrikaans",
         native: "Afrikaans",
+        code: "af",
+    },
+    {
+        no: "2",
+        name: "English",
+        native: "English",
         code: "en",
     }
 ]
