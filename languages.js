@@ -24,6 +24,9 @@ const languages = [
         code: "ar",
     },
     {
-        
+        no: "2",
+        name: "Albanian",
+        native: "Shqip",
+        code: "sq",
     }
 ]
