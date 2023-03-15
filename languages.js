@@ -6,8 +6,8 @@ const languages = [
         code: "en",
     },
     {
-        no: "16",
-        name: "English",
+        no: "1",
+        name: "Afrikaans",
         native: "English",
         code: "en",
     }
