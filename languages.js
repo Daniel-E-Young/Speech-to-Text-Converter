@@ -15,6 +15,9 @@ const languages = [
         no: "2",
         name: "Albanian",
         native: "Shqip",
-        code: "en",
+        code: "sq",
+    },
+    {
+        
     }
 ]
