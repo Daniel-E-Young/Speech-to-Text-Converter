@@ -112,7 +112,7 @@ body{
     color: var(--text-color);
 }
 .buttons{
-    
+    display: flex;
 }
 
 
