@@ -67,12 +67,12 @@ const languages = [
     },
     {
         no: "11",
-        name: "Vhinese (Traditional)",
+        name: "Chinese (Traditional)",
         native: "中文繁體",
         code: "zh-TW",
     },
     {
-        no: "11",
+        no: "12",
         name: "Vhinese (Traditional)",
         native: "中文繁體",
         code: "zh-TW",
