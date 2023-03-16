@@ -58,5 +58,11 @@ const languages = [
         name: "Catalan",
         native: "Català",
         code: "ca",
+    },
+    {
+        no: "10",
+        name: "Chinese (Simplified)",
+        native: "Català",
+        code: "ca",
     }
 ]
