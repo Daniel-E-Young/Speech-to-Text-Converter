@@ -29,5 +29,10 @@ const languages = [
         native: "Հայերէն",
         code: "hy",
     },
-    
+    {
+        no: "4",
+        name: "Armenian",
+        native: "Հայերէն",
+        code: "hy",
+    }
 ]
