@@ -63,6 +63,6 @@ const languages = [
         no: "10",
         name: "Chinese (Simplified)",
         native: "中文简体",
-        code: "ca",
+        code: "zh-CN",
     }
 ]
