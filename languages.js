@@ -53,5 +53,4 @@ const languages = [
         native: "Беларуская",
         code: "be",
     },
-    }
 ]
