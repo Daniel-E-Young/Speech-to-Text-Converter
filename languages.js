@@ -30,7 +30,7 @@ const languages = [
         code: "hy",
     },
     {
-        no: "4",
+        no: "5",
         name: "Armenian",
         native: "Հայերէն",
         code: "hy",
