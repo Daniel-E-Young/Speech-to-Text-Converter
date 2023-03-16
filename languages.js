@@ -74,7 +74,7 @@ const languages = [
     {
         no: "12",
         name: "Craotian",
-        native: "中文繁體",
+        native: "Hrvatski",
         code: "zh-TW",
     }
 ]
