@@ -72,6 +72,9 @@ const languages = [
         code: "zh-TW",
     },
     {
-        
+        no: "11",
+        name: "Vhinese (Traditional)",
+        native: "中文繁體",
+        code: "zh-TW",
     }
 ]
