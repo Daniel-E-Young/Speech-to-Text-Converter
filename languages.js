@@ -54,6 +54,9 @@ const languages = [
         code: "bg",
     },
     {
-        
+        no: "9",
+        name: "Catalan",
+        native: "Български",
+        code: "bg",
     }
 ]
