@@ -75,6 +75,12 @@ const languages = [
         no: "12",
         name: "Craotian",
         native: "Hrvatski",
-        code: "zh-TW",
+        code: "hr",
+    },
+    {
+        no: "13",
+        name: "Craotian",
+        native: "Hrvatski",
+        code: "hr",
     }
 ]
