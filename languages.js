@@ -31,8 +31,8 @@ const languages = [
     },
     {
         no: "5",
-        name: "Armenian",
-        native: "Հայերէն",
+        name: "Azerbaijani",
+        native: "آذربایجان دیلی",
         code: "hy",
     }
 ]
