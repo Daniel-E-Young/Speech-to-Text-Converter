@@ -34,5 +34,11 @@ const languages = [
         name: "Azerbaijani",
         native: "آذربایجان دیلی",
         code: "az",
+    },
+    {
+        no: "5",
+        name: "Azerbaijani",
+        native: "آذربایجان دیلی",
+        code: "az",
     }
 ]
