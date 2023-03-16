@@ -73,7 +73,7 @@ const languages = [
     },
     {
         no: "12",
-        name: "Vhinese (Traditional)",
+        name: "Craotian",
         native: "中文繁體",
         code: "zh-TW",
     }
