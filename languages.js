@@ -38,7 +38,7 @@ const languages = [
     {
         no: "6",
         name: "Basque",
-        native: "Беларуская",
+        native: "Euskara",
         code: "be",
     },
     {
