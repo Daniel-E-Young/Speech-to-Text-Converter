@@ -39,6 +39,9 @@ const languages = [
         no: "6",
         name: "Basque",
         native: "Беларуская",
-        code: "az",
+        code: "be",
+    },
+    {
+        
     }
 ]
