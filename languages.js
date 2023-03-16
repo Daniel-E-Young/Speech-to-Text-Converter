@@ -39,7 +39,7 @@ const languages = [
         no: "6",
         name: "Basque",
         native: "Euskara",
-        code: "be",
+        code: "eu",
     },
     {
         no: "7",
