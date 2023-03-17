@@ -113,4 +113,10 @@ const languages = [
         native: "Soumi",
         code: "fi",
     },
+    {
+        no: "20",
+        name: "Czech",
+        native: "Čeština",
+        code: "cs",
+    }
 ]
