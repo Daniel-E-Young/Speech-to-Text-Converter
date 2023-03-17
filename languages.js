@@ -84,6 +84,9 @@ const languages = [
         code: "cs",
     },
     {
-        
+        no: "13",
+        name: "Czech",
+        native: "Čeština",
+        code: "cs",
     }
 ]
