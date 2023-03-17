@@ -98,7 +98,7 @@ const languages = [
     {
         no: "17",
         name: "Filipino",
-        native: "Čeština",
+        native: "Filipino",
         code: "cs",
     }
 ]
