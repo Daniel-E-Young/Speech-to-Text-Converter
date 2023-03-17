@@ -87,6 +87,6 @@ const languages = [
         no: "14",
         name: "Danish",
         native: "Dansk",
-        code: "cs",
+        code: "da",
     }
 ]
