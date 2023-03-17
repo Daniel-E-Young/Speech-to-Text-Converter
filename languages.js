@@ -111,6 +111,6 @@ const languages = [
         no: "19",
         name: "Finnish",
         native: "Soumi",
-        code: "ti",
+        code: "fi",
     },
 ]
