@@ -105,6 +105,6 @@ const languages = [
         no: "18",
         name: "Filipino",
         native: "Filipino",
-        code: "fi",
+        code: "ti",
     }
 ]
