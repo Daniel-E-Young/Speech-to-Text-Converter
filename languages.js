@@ -96,7 +96,7 @@ const languages = [
         code: "nl",
     },
     {
-        no: "17",
+        no: "18",
         name: "Filipino",
         native: "Filipino",
         code: "cs",
