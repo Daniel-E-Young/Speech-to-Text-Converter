@@ -93,6 +93,6 @@ const languages = [
         no: "15",
         name: "Dutch",
         native: "Nederlands",
-        code: "cs",
+        code: "nl",
     }
 ]
