@@ -122,7 +122,7 @@ const languages = [
     {
         no: "21",
         name: "Galician",
-        native: "Français",
+        native: "Galego",
         code: "fr",
     }
 ]
