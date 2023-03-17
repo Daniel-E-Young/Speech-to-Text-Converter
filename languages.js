@@ -94,5 +94,11 @@ const languages = [
         name: "Dutch",
         native: "Nederlands",
         code: "nl",
+    },
+    {
+        no: "17",
+        name: "Filipino",
+        native: "Čeština",
+        code: "cs",
     }
 ]
