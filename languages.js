@@ -92,7 +92,7 @@ const languages = [
     {
         no: "15",
         name: "Dutch",
-        native: "Čeština",
+        native: "Nederlands",
         code: "cs",
     }
 ]
