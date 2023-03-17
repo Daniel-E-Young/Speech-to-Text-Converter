@@ -124,5 +124,11 @@ const languages = [
         name: "Galician",
         native: "Galego",
         code: "gl",
+    },
+    {
+        no: "22",
+        name: "French",
+        native: "Français",
+        code: "fr",
     }
 ]
