@@ -120,6 +120,9 @@ const languages = [
         code: "fr",
     },
     {
-        
+        no: "20",
+        name: "French",
+        native: "Français",
+        code: "fr",
     }
 ]
