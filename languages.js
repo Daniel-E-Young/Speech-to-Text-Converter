@@ -90,8 +90,8 @@ const languages = [
         code: "da",
     },
     {
-        no: "13",
-        name: "Czech",
+        no: "15",
+        name: "Dutch",
         native: "Čeština",
         code: "cs",
     }
