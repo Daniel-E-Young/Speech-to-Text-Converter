@@ -99,7 +99,7 @@ const languages = [
         no: "17",
         name: "Estonian",
         native: "Eesti keel",
-        code: "cs",
+        code: "et",
     },
     {
         no: "18",
