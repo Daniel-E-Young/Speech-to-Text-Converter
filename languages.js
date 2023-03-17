@@ -123,6 +123,6 @@ const languages = [
         no: "21",
         name: "Galician",
         native: "Galego",
-        code: "fr",
+        code: "gl",
     }
 ]
