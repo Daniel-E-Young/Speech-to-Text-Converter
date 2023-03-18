@@ -151,7 +151,7 @@ const languages = [
     },
     {
         no: "26",
-        name: "Haitian Creole",
+        name: "Hebrew",
         native: "Kreyòl ayisyen",
         code: "ht"
     }
