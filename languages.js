@@ -169,6 +169,12 @@ const languages = [
     },
     {
         no: "29",
+        name: "Icelandic",
+        native: "Íslenska",
+        code: "is",
+        
+    },
+    {
         
     }
 ]
