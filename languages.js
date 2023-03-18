@@ -134,7 +134,7 @@ const languages = [
     {
         no: "23",
         name: "German",
-        native: "ქართული",
+        native: "Deutsch",
         code: "ka"
     }
 ]
