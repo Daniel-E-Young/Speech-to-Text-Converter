@@ -144,8 +144,8 @@ const languages = [
         code: "el"
     },
     {
-        no: "24",
-        name: "Greek",
+        no: "25",
+        name: "Haitian Creole",
         native: "Ελληνικά",
         code: "el"
     }
