@@ -150,6 +150,9 @@ const languages = [
         code: "ht"
     },
     {
-        
+        no: "26",
+        name: "Haitian Creole",
+        native: "Kreyòl ayisyen",
+        code: "ht"
     }
 ]
