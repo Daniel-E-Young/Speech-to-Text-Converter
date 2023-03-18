@@ -165,6 +165,6 @@ const languages = [
         no: "28",
         name: "Hungarian",
         native: "Magyar",
-        code: "iw"
+        code: "hu"
     }
 ]
