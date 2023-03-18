@@ -177,6 +177,7 @@ const languages = [
     {
         no: "30",
         name: "Indonesian",
-        native: "Bahasa Indonesia"
-    }
+        native: "Bahasa Indonesia",
+        code: "id",
+    },
 ]
