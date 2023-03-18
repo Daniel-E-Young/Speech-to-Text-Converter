@@ -127,6 +127,6 @@ const languages = [
     },
     {
         no: "22",
-       
+        name: "Georgian"
     }
 ]
