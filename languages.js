@@ -127,7 +127,8 @@ const languages = [
     },
     {
         no: "22",
-        name: "Georgian"
-        native: "ქართული"
+        name: "Georgian",
+        native: "ქართული",
+        code: "ka"
     }
 ]
