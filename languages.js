@@ -133,7 +133,7 @@ const languages = [
     },
     {
         no: "23",
-        name: "Georgian",
+        name: "Deutch",
         native: "ქართული",
         code: "ka"
     }
