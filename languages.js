@@ -162,8 +162,8 @@ const languages = [
         code: "hi"
     },
     {
-        no: "26",
-        name: "Hebrew",
+        no: "28",
+        name: "Hungarian",
         native: "עברית",
         code: "iw"
     }
