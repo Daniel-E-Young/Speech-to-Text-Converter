@@ -135,6 +135,6 @@ const languages = [
         no: "23",
         name: "German",
         native: "Deutsch",
-        code: "ka"
+        code: "de"
     }
 ]
