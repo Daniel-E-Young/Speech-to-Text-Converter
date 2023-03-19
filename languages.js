@@ -207,8 +207,10 @@ const languages = [
     {
         no: "35",
         name: "Latvian",
-        native: "Latviešu"
-        code: ""
-
+        native: "Latviešu",
+        code: "lv",
+    },
+    {
+        
     }
 ]
