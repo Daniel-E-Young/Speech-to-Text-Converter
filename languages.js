@@ -217,8 +217,11 @@ const languages = [
         code: "lt",
     },
     {
-        
-    }
+        no: "37",
+        name: "Macedonian",
+        native: "Македонски",
+        code: "mk",
+    },
 
 
 
