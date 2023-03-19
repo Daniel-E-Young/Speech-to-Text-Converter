@@ -196,5 +196,6 @@ const languages = [
         no: "33",
         name: "Japanese",
         native: "日本語",
+        code: "js"
     }
 ]
