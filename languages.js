@@ -181,6 +181,6 @@ const languages = [
         code: "id",
     },
     {
-        
+        no: "31"
     }
 ]
