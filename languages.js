@@ -222,16 +222,10 @@ const languages = [
         native: "Македонски",
         code: "mk",
     },
-
-
-
-
-
-
-
-
     {
-        no: "36",
+        no: "38",
         name: "Malay",
+        native: "Malay"
+        code: ""
     }
 ]
