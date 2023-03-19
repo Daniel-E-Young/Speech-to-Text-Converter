@@ -181,6 +181,8 @@ const languages = [
         code: "id",
     },
     {
-        no: "31"
+        no: "31",
+        name: "Italian",
+        
     }
 ]
