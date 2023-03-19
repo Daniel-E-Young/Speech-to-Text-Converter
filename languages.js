@@ -205,6 +205,7 @@ const languages = [
         code: "ko",
     },
     {
-        no: 
+        no: "35",
+
     }
 ]
