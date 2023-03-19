@@ -212,6 +212,20 @@ const languages = [
     },
     {
         no: "36",
+        name: "Lithuanian",
+        native: "Lietuvių kalba",
+        code: "lt",
+    },
+
+
+
+
+
+
+
+
+    {
+        no: "36",
         name: "Malay",
     }
 ]
