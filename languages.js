@@ -193,7 +193,7 @@ const languages = [
         code: "it"
     },
     {
-        no: "33"
-        name:
+        no: "33",
+        name: "Japanese",
     }
 ]
