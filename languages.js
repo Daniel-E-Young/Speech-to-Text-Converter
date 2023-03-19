@@ -198,4 +198,8 @@ const languages = [
         native: "日本語",
         code: "ja"
     },
+    {
+        no: "34",
+        
+    }
 ]
