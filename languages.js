@@ -183,6 +183,6 @@ const languages = [
     {
         no: "31",
         name: "Italian",
-        
+        native: ""
     }
 ]
