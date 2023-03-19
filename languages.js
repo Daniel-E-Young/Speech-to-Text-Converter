@@ -201,6 +201,7 @@ const languages = [
     {
         no: "34",
         name: "Korean",
-        
+        native: "한국어"
+        code: "ko"
     }
 ]
