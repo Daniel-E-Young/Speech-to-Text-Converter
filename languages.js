@@ -206,6 +206,7 @@ const languages = [
     },
     {
         no: "35",
+        name: "Latvian",
 
     }
 ]
