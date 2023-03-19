@@ -183,8 +183,8 @@ const languages = [
     {
         no: "31",
         name: "Irish",
-        native: "Gaei;ge",
-        code: "id",
+        native: "Gaeilge",
+        code: "ga",
     },
     {
         no: "31",
