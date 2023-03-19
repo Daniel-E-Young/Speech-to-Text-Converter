@@ -187,12 +187,12 @@ const languages = [
         code: "ga",
     },
     {
-        no: "31",
+        no: "32",
         name: "Italian",
         native: "Italiano",
         code: "it"
     },
     {
-
+        
     }
 ]
