@@ -239,5 +239,9 @@ const languages = [
         name: "Norwegian",
         native: "Norsk",
         code: "no",
+    },
+    {
+        no: "41",
+        
     }
 ]
