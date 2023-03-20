@@ -252,4 +252,7 @@ const languages = [
         native: "Polski",
         code: "pl",
     },
+    {
+        no: 
+    }
 ]
