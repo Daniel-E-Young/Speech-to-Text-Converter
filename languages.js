@@ -247,6 +247,6 @@ const languages = [
         code: "fa",
     },
     {
-        
+        no: "42"
     }
 ]
