@@ -242,6 +242,7 @@ const languages = [
     },
     {
         no: "41",
-        name: "Persian"
+        name: "Persian",
+        
     }
 ]
