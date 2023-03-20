@@ -247,6 +247,8 @@ const languages = [
         code: "fa",
     },
     {
-        no: "42"
+        no: "42",
+        name: "Polish",
+        native
     }
 ]
