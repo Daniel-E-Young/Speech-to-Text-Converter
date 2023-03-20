@@ -228,5 +228,7 @@ const languages = [
         native: "Malay",
         code: "ms",
     },
-    
+    {
+        no: 
+    }
 ]
