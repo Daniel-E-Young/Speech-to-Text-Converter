@@ -244,5 +244,6 @@ const languages = [
         no: "41",
         name: "Persian",
         native: "فارسی"
+        code: "fa"
     }
 ]
