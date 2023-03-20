@@ -253,6 +253,9 @@ const languages = [
         code: "pl",
     },
     {
-        no: 
+        no: "43",
+        name: "Portugeuese",
+        native: "Português",
+        
     }
 ]
