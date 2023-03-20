@@ -233,6 +233,6 @@ const languages = [
         name: "Maltese",
         native: "Malti",
         code: "ms",
+    },
     
-    }
 ]
