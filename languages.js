@@ -231,6 +231,6 @@ const languages = [
     {
         no: "39",
         name: "Maltese",
-        native: 
+        native: "Malti"
     }
 ]
