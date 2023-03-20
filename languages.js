@@ -230,7 +230,7 @@ const languages = [
     },
     {
         no: "39",
-        name: "Maltese"
-        native:
+        name: "Maltese",
+        native: 
     }
 ]
