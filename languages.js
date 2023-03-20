@@ -234,5 +234,7 @@ const languages = [
         native: "Malti",
         code: "ms",
     },
-    
+    {
+        
+    }
 ]
