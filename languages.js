@@ -250,6 +250,6 @@ const languages = [
         no: "42",
         name: "Polish",
         native: "Polski",
-        code: ""
-    }
+        code: "pl",
+    },
 ]
