@@ -235,6 +235,6 @@ const languages = [
         code: "ms",
     },
     {
-        
+        no: 
     }
 ]
