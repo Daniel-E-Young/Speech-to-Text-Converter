@@ -281,5 +281,6 @@ const languages = [
         name: "Solvak",
         native: "Slovenčina",
         code: "sk",
-    }
+    },
+    {}
 ]
