@@ -268,5 +268,6 @@ const languages = [
         no: "45",
         name: "Russian",
         native: "Русский",
+        code: "ru",
     }
 ]
