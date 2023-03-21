@@ -259,6 +259,6 @@ const languages = [
         code: "pt",
     },
     {
-        
+        no:
     }
 ]
