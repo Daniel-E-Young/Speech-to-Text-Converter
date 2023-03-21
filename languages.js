@@ -259,6 +259,7 @@ const languages = [
         code: "pt",
     },
     {
-        no: "44"
+        no: "44",
+        
     }
 ]
