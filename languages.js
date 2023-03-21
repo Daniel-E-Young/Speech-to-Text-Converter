@@ -262,6 +262,6 @@ const languages = [
         no: "44",
         name: "Romanain",
         native: "Română",
-        code: "ro"
-    }
+        code: "ro",
+    },
 ]
