@@ -277,7 +277,7 @@ const languages = [
         code: "sr",
     },
     {
-        no: "47"
-        name: 
+        no: "47",
+        name: "Solvak"
     }
 ]
