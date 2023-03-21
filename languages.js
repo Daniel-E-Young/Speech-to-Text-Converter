@@ -271,7 +271,8 @@ const languages = [
         code: "ru",
     },
     {
-        no:
+        no: "46",
+        
 
     }
 ]
