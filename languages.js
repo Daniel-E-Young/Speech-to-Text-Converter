@@ -280,6 +280,7 @@ const languages = [
         no: "47",
         name: "Solvak",
         native: "Slovenčina",
+        code: ""
 
     }
 ]
