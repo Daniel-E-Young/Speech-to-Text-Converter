@@ -274,5 +274,6 @@ const languages = [
         no: "46",
         name: "Serbian",
         native: "Српски",
+        code: ""
     }
 ]
