@@ -265,6 +265,6 @@ const languages = [
         code: "ro",
     },
     {
-        
+        no: ""
     }
 ]
