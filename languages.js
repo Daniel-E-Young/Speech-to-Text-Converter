@@ -287,5 +287,8 @@ const languages = [
         name: "Slovenian",
         native: "Slovensko",
         code: "sl",
+    },
+    {
+        no: 
     }
 ]
