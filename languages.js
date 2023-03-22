@@ -285,6 +285,6 @@ const languages = [
     {
         no: "48",
         name: "Solvenian",
-        native: 
+        native: ""
     }
 ]
