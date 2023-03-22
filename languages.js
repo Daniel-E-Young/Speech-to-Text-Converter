@@ -296,5 +296,6 @@ const languages = [
     },
     {
         no: "50",
+        name: "Swahili"
     }
 ]
