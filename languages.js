@@ -310,6 +310,6 @@ const languages = [
         no: "52",
         name: "Thai",
         naive: "ไทย",
-        
+        code: 
     }
 ]
