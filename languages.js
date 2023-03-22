@@ -284,7 +284,7 @@ const languages = [
     },
     {
         no: "48",
-        name: "Solvenian",
+        name: "Slovenian",
         native: "Slovensko"
     }
 ]
