@@ -294,5 +294,7 @@ const languages = [
         native: "Español",
         code: "es",
     },
-    
+    {
+        no: 
+    }
 ]
