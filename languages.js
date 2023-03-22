@@ -301,6 +301,7 @@ const languages = [
         code: "sw",
     },
     {
-        no: ""
+        no: "51",
+        
     }
 ]
