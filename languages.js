@@ -307,6 +307,6 @@ const languages = [
         code: "sv",
     },
     {
-        
+        no: 
     }
 ]
