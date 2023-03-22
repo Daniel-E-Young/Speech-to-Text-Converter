@@ -283,6 +283,6 @@ const languages = [
         code: "sk",
     },
     {
-        
+        no: ""
     }
 ]
