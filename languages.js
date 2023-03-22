@@ -295,6 +295,6 @@ const languages = [
         code: "es",
     },
     {
-        no: 
+        no: "50",
     }
 ]
