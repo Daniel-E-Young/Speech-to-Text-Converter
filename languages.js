@@ -282,5 +282,7 @@ const languages = [
         native: "Slovenčina",
         code: "sk",
     },
-    {}
+    {
+        
+    }
 ]
