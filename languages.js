@@ -343,6 +343,7 @@ const languages = [
         code: "cy",
     },
     {
-        no: "58"
+        no: "58",
+        name: 
     }
 ]
