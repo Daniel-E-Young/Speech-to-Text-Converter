@@ -348,4 +348,4 @@ const languages = [
         native: "ייִדיש",
         code: "yi",
     },
-]
+];
