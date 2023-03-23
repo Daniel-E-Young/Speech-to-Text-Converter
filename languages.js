@@ -319,6 +319,7 @@ const languages = [
         code: "tr",
     },
     {
-        no: 
+        no: "54",
+        name: 
     }
 ]
