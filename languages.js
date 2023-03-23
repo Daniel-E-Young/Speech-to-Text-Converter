@@ -334,6 +334,9 @@ const languages = [
         no: "56",
         name: "Vietnamese",
         native: "Tiếng Việt",
-        code: 
+        code: "vi",
+    },
+    {
+        
     }
 ]
