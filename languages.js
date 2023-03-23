@@ -331,7 +331,7 @@ const languages = [
         code: "ur",
     },
     {
-        no: "56"
+        no: "56",
         name: ""
     }
 ]
