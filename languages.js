@@ -313,6 +313,7 @@ const languages = [
         code: "th",
     },
     {
-        no: 
+        no: "53",
+        
     }
 ]
