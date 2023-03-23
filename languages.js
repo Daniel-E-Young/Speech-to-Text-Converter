@@ -333,6 +333,7 @@ const languages = [
     {
         no: "56",
         name: "Vietnamese",
-        native: 
+        native: "Tiếng Việt",
+        code: 
     }
 ]
