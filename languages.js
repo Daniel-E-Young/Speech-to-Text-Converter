@@ -105,12 +105,12 @@ const languages = [
         no: "18",
         name: "Filipino",
         native: "Filipino",
-        code: "ti",
+        code: "tl",
     },
     {
         no: "19",
         name: "Finnish",
-        native: "Soumi",
+        native: "Suomi",
         code: "fi",
     },
     {
@@ -129,50 +129,49 @@ const languages = [
         no: "22",
         name: "Georgian",
         native: "ქართული",
-        code: "ka"
+        code: "ka",
     },
     {
         no: "23",
         name: "German",
         native: "Deutsch",
-        code: "de"
+        code: "de",
     },
     {
         no: "24",
         name: "Greek",
         native: "Ελληνικά",
-        code: "el"
+        code: "el",
     },
     {
         no: "25",
         name: "Haitian Creole",
         native: "Kreyòl ayisyen",
-        code: "ht"
+        code: "ht",
     },
     {
         no: "26",
         name: "Hebrew",
         native: "עברית",
-        code: "iw"
+        code: "iw",
     },
     {
         no: "27",
         name: "Hindi",
         native: "हिन्दी",
-        code: "hi"
+        code: "hi",
     },
     {
         no: "28",
         name: "Hungarian",
         native: "Magyar",
-        code: "hu"
+        code: "hu",
     },
     {
         no: "29",
         name: "Icelandic",
         native: "Íslenska",
         code: "is",
-        
     },
     {
         no: "30",
@@ -190,13 +189,13 @@ const languages = [
         no: "32",
         name: "Italian",
         native: "Italiano",
-        code: "it"
+        code: "it",
     },
     {
         no: "33",
         name: "Japanese",
         native: "日本語",
-        code: "ja"
+        code: "ja",
     },
     {
         no: "34",
@@ -232,7 +231,7 @@ const languages = [
         no: "39",
         name: "Maltese",
         native: "Malti",
-        code: "ms",
+        code: "mt",
     },
     {
         no: "40",
@@ -254,13 +253,13 @@ const languages = [
     },
     {
         no: "43",
-        name: "Portugeuese",
+        name: "Portuguese",
         native: "Português",
         code: "pt",
     },
     {
         no: "44",
-        name: "Romanain",
+        name: "Romanian",
         native: "Română",
         code: "ro",
     },
@@ -278,7 +277,7 @@ const languages = [
     },
     {
         no: "47",
-        name: "Solvak",
+        name: "Slovak",
         native: "Slovenčina",
         code: "sk",
     },
