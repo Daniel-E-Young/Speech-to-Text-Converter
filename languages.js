@@ -317,5 +317,8 @@ const languages = [
         name: "Turkish",
         native: "Türkçe",
         code: "tr",
+    },
+    {
+        no: 
     }
 ]
