@@ -340,6 +340,6 @@ const languages = [
         no: "57",
         name: "Welsh",
         native: "Cymraeg",
-        code: ""
+        code: "cy"
     }
 ]
