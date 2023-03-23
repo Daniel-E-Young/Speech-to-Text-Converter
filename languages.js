@@ -315,6 +315,6 @@ const languages = [
     {
         no: "53",
         name: "Turkish",
-        native: ""
+        native: "Türkçe",
     }
 ]
