@@ -347,5 +347,5 @@ const languages = [
         name: "Yiddish",
         native: "ייִדיש",
         code: "yi",
-    }
+    },
 ]
