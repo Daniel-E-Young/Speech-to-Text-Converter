@@ -325,6 +325,7 @@ const languages = [
         code: "uk",
     },
     {
+        no: "55",
         
     }
 ]
