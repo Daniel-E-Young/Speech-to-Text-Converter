@@ -312,5 +312,7 @@ const languages = [
         naive: "ไทย",
         code: "th",
     },
-    
+    {
+        
+    }
 ]
