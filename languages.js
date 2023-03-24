@@ -228,7 +228,7 @@ const languages = [
         code: "ms",
     },
     {
-        no: "32",
+        no: "33",
         name: "Maltese",
         native: "Malti",
         code: "mt",
