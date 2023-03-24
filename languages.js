@@ -288,7 +288,7 @@ const languages = [
         code: "sl",
     },
     {
-        no: "40",
+        no: "41",
         name: "Spanish",
         native: "Español",
         code: "es",
