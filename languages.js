@@ -342,7 +342,7 @@ const languages = [
         code: "cy",
     },
     {
-        no: "55",
+        no: "56",
         name: "Yiddish",
         native: "ייִדיש",
         code: "yi",
