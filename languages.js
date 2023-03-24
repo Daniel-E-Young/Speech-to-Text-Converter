@@ -150,7 +150,7 @@ const languages = [
         code: "ht",
     },
     {
-        no: "25",
+        no: "26",
         name: "Hebrew",
         native: "עברית",
         code: "iw",
