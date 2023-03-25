@@ -1,1 +1,1 @@
-const recordBtn =
+const recordBtn = document
