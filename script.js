@@ -1,2 +1,2 @@
-const recordBtn = document.querySelector (".record")
-    result = document.querySelector("")
+const recordBtn = document.querySelector (".record"),
+    result = document.querySelector(".resuly"),
