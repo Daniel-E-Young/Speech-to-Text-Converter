@@ -1,1 +1,1 @@
-const recordBtn = document
+const recordBtn = document.querySelector
