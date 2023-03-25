@@ -294,7 +294,7 @@ const languages = [
         code: "es",
     },
     {
-        no: "52",
+        no: "53",
         name: "Swahili",
         native: "Kiswahili",
         code: "sw",
