@@ -156,7 +156,7 @@ const languages = [
         code: "iw",
     },
     {
-        no: "21",
+        no: "22",
         name: "Hindi",
         native: "हिन्दी",
         code: "hi",
