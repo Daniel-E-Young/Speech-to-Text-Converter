@@ -5,4 +5,4 @@ const recordBtn = document.querySelector(".record"),
     clearBtn = document.querySelector(".clear");
 
 let SpeechRecognition = 
-    window.SpeechRecognition || window.webkitSpedech
+    window.SpeechRecognition || window.webkitSpeechRecognition
