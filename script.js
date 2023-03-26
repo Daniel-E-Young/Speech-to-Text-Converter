@@ -4,4 +4,4 @@ const recordBtn = document.querySelector(".record"),
     inputLanhuage = document.querySelector("#language"),
     clearBtn = document.querySelector(".clear");
 
-    
+let 
