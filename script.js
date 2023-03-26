@@ -9,5 +9,7 @@ let SpeechRecognition =
     recording = false;
 
     function populateLanguage() {
-        languages.forEach(lang)=>
+        languages.forEach(lang)=> {
+            
+        }
     }
