@@ -10,6 +10,6 @@ let SpeechRecognition =
 
     function populateLanguage() {
         languages.forEach(lang)=> {
-            const option = document.create
+            const option = document.createElement("option")
         }
     }
