@@ -6,4 +6,4 @@ const recordBtn = document.querySelector(".record"),
 
 let SpeechRecognition = 
     window.SpeechRecognition || window.webkitSpeechRecognition, recognition
-    recording=false
+    recording = false
