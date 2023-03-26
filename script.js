@@ -8,4 +8,6 @@ let SpeechRecognition =
     window.SpeechRecognition || window.webkitSpeechRecognition, recognition
     recording = false;
 
-    function populateLanguage
+    function populateLanguage() {
+        
+    }
