@@ -22,6 +22,6 @@ let SpeechRecognition =
     function speechToText() {
         try {
             recognition = new SpeechRecognition();
-            recognition.lang = inputLanguage
+            recognition.lang = inputLanguage.value
         }
     }
