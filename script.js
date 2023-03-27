@@ -20,5 +20,7 @@ let SpeechRecognition =
     populateLanguages();
 
     function speechToText() {
-        
+        try {
+            
+        }
     }
