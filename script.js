@@ -23,5 +23,6 @@ let SpeechRecognition =
         try {
             recognition = new SpeechRecognition();
             recognition.lang = inputLanguage.value;
+            
         }
     }
