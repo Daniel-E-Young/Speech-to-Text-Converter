@@ -19,4 +19,6 @@ let SpeechRecognition =
 
     populateLanguages();
 
-    function speechToText
+    function speechToText() {
+        
+    }
