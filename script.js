@@ -16,3 +16,5 @@ let SpeechRecognition =
             inputLanguage.appendChild(option)
         });
     }
+
+    
