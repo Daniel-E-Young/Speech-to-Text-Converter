@@ -21,6 +21,7 @@ let SpeechRecognition =
 
     function speechToText() {
         try {
-            recognition = new SpeechRecognition
+            recognition = new SpeechRecognition();
+            
         }
     }
