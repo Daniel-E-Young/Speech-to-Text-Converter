@@ -12,6 +12,7 @@ let SpeechRecognition =
         languages.forEach(lang)=> {
             const option = document.createElement("option");
             option.value = lang.code;
-            option.innerHTML = 
+            option.innerHTML = lang.name;
+            
         }
     }
