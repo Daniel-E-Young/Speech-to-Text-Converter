@@ -14,5 +14,5 @@ let SpeechRecognition =
             option.value = lang.code;
             option.innerHTML = lang.name;
             inputLanguage.appendChild(option)
-        }
+        });
     }
