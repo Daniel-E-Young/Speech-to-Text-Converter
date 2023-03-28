@@ -27,5 +27,6 @@ let SpeechRecognition =
             recordBtn.classList.add("recording");
             recordBtn.querySelector("p").innerHTML = "Listening...";
             recognition.start();
+            recognition
         }
     }
