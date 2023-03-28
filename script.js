@@ -28,7 +28,7 @@ let SpeechRecognition =
             recordBtn.querySelector("p").innerHTML = "Listening...";
             recognition.start();
             recognition.onresult = (event) => {
-                const speechResult = 
+                const speechResult = event.result
             }
         }
     }
