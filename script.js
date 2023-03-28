@@ -24,6 +24,6 @@ let SpeechRecognition =
             recognition = new SpeechRecognition();
             recognition.lang = inputLanguage.value;
             recognition.interimResult = true;
-            recordBtn.classList.add()
+            recordBtn.classList.add("recording")
         }
     }
