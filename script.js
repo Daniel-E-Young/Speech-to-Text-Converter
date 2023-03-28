@@ -23,6 +23,6 @@ let SpeechRecognition =
         try {
             recognition = new SpeechRecognition();
             recognition.lang = inputLanguage.value;
-            recognition.interim
+            recognition.interimReslut
         }
     }
