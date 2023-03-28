@@ -25,6 +25,6 @@ let SpeechRecognition =
             recognition.lang = inputLanguage.value;
             recognition.interimResult = true;
             recordBtn.classList.add("recording");
-            recordBtn.querySelector("p").innerHTML = "Listening."
+            recordBtn.querySelector("p").innerHTML = "Listening..."
         }
     }
