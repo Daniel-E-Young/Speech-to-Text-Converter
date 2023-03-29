@@ -29,7 +29,7 @@ let SpeechRecognition =
             recognition.start();
             recognition.onresult = (event) => {
                 const speechResult = event.result[0][0].transcript;
-                //detect when interim 
+                //detect when interim results
 
             }
         }
