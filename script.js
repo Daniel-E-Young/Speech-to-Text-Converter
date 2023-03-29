@@ -31,7 +31,7 @@ let SpeechRecognition =
                 const speechResult = event.result[0][0].transcript;
                 //detect when interim results
                 if (event.results[0].isFinal) {
-                    result.innerHTML +=
+                    result.innerHTML +="" + 
                 }
 
             }
