@@ -30,7 +30,9 @@ let SpeechRecognition =
             recognition.onresult = (event) => {
                 const speechResult = event.result[0][0].transcript;
                 //detect when interim results
-                if (event.results[0].is)
+                if (event.results[0].isDinal) {
+                    
+                }
 
             }
         }
