@@ -32,7 +32,7 @@ let SpeechRecognition =
                 //detect when interim results
                 if (event.results[0].isFinal) {
                     result.innerHTML +="" + speechResult;
-                    result.querySelector("p");
+                    result.querySelector("p").remove;
                 }
 
             }
