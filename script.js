@@ -34,7 +34,7 @@ let SpeechRecognition =
                     result.innerHTML +="" + speechResult;
                     result.querySelector("p").remove();
                 } else {
-                    //creative p with class interim if not 
+                    //creative p with class interim if not already there
                 }
 
             }
