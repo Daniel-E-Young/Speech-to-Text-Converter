@@ -34,7 +34,7 @@ let SpeechRecognition =
                     result.innerHTML +="" + speechResult;
                     result.querySelector("p").remove();
                 } else {
-                    //creative p
+                    //creative p with class
                 }
 
             }
