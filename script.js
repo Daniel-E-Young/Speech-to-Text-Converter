@@ -35,7 +35,7 @@ let SpeechRecognition =
                     result.querySelector("p").remove();
                 } else {
                     //creative p with class interim if not already there
-                    if (!document.querySelector(".interim"))}
+                    if (!document.querySelector(".interim")) }
                 }
 
             }
