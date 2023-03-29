@@ -33,6 +33,8 @@ let SpeechRecognition =
                 if (event.results[0].isFinal) {
                     result.innerHTML +="" + speechResult;
                     result.querySelector("p").remove();
+                } else {
+                    
                 }
 
             }
