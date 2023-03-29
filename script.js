@@ -30,6 +30,7 @@ let SpeechRecognition =
             recognition.onresult = (event) => {
                 const speechResult = event.result[0][0].transcript;
                 
+                
             }
         }
     }
