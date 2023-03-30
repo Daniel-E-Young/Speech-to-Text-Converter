@@ -38,7 +38,7 @@ let SpeechRecognition =
                     if (!document.querySelector(".interim")) }
                     const interim = document.createElement("p");
                     interim.classList.add("interim");
-                    result.appendChild
+                    result.appendChild(interim);
                 }
 
             }
