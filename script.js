@@ -9,11 +9,11 @@ let SpeechRecognition =
     recording = false;
 
     function populateLanguage() {
-        languages.forEach(lang)=> {
+        languages.forEach(lang) => {
             const option = document.createElement("option");
             option.value = lang.code;
             option.innerHTML = lang.name;
-            inputLanguage.appendChild(option)
+            inputLanguage.appendChild(option);
         });
     }
 
@@ -36,7 +36,7 @@ let SpeechRecognition =
                 } else {
                     //creative p with class interim if not already there
                     if (!document.querySelector(".interim")) }
-                    const interim = document.createElement("p")
+                    const interim = document.createElement("p");
                 }
 
             }
