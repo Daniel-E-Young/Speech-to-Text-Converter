@@ -42,6 +42,6 @@ let SpeechRecognition =
                 }
                 //update the interim p with the speech result
                 document.querySelector(".interim").innerHTML= " " + speechResult;
-
             }
-    }
+            downloadBtn.disabled = false;
+            
