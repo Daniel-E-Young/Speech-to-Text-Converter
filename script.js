@@ -36,7 +36,7 @@ let SpeechRecognition =
                 } else {
                     //creative p with class interim if not already there
                     if (!document.querySelector(".interim")) }
-                    const interim = document.create
+                    const interim = document.createElement
                 }
 
             }
