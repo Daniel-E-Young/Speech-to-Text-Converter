@@ -40,6 +40,7 @@ let SpeechRecognition =
                     interim.classList.add("interim");
                     result.appendChild(interim);
                 }
+                //update the interi
 
             }
     }
