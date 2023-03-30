@@ -44,4 +44,4 @@ let SpeechRecognition =
                 document.querySelector(".interim").innerHTML= " " + speechResult;
             }
             downloadBtn.disabled = false;
-            
+     };
