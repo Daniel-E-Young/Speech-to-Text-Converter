@@ -41,7 +41,7 @@ let SpeechRecognition =
                     result.appendChild(interim);
                 }
                 //update the interim p with the speech result
-                document.querySelector(".interim").innerHTML
+                document.querySelector(".interim").innerHTML= ""
 
             }
     }
