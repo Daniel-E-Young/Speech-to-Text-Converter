@@ -50,5 +50,7 @@ let SpeechRecognition =
      };
      recognition.onerror = (event)=> {
         stopRecording();
-        if(event.error=== "no-speech")
+        if(event.error=== "no-speech"){
+            alert("")
+        }
      } 
