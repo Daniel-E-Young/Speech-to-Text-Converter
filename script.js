@@ -58,5 +58,5 @@ let SpeechRecognition =
             );
         } else if(event.error === "not-allowed"){
             alert("Permission to use microphone is blocked.");
-        } else if ()
+        } else if (event.error )
      } 
