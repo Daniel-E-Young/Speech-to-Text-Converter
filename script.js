@@ -54,7 +54,7 @@ let SpeechRecognition =
             alert("No speech was detected. Ending now...");
         } else if(event.error === "audio-capture"){
             alert(
-                ""
-            )
+                "No microphone was found. Ensure that a microphone is installed"
+            );
         }
      } 
