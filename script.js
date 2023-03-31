@@ -48,4 +48,6 @@ let SpeechRecognition =
      recognition.onspeechend = () => {
         speechToText();
      };
-     recognition.onerror
+     recognition.onerror = (event)=> {
+        
+     } 
