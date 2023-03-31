@@ -52,5 +52,5 @@ let SpeechRecognition =
         stopRecording();
         if(event.error=== "no-speech"){
             alert("No speech was detected. Ending now...");
-        } else if(event.error === "")
+        } else if(event.error === "audio-capture")
      } 
