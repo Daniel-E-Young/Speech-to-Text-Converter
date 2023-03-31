@@ -45,4 +45,4 @@ let SpeechRecognition =
             }
             downloadBtn.disabled = false;
      };
-     recognition
+     recognition.onspeechend
