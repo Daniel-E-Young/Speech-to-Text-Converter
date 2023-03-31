@@ -49,5 +49,5 @@ let SpeechRecognition =
         speechToText();
      };
      recognition.onerror = (event)=> {
-        
+        stopRecording
      } 
