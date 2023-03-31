@@ -45,4 +45,6 @@ let SpeechRecognition =
             }
             downloadBtn.disabled = false;
      };
-     recognition.onspeechend = () 
+     recognition.onspeechend = () => {
+        
+     }
