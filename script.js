@@ -56,5 +56,7 @@ let SpeechRecognition =
             alert(
                 "No microphone was found. Ensure that a microphone is installed"
             );
-        } else if(event.error === "not-allowed")
+        } else if(event.error === "not-allowed"){
+            alert("")
+        }
      } 
