@@ -77,7 +77,4 @@ recordBtn.addEventListener("click", ()=> {
     } else {
         stopRecording();
     }
-
-}
-
-)
+});
