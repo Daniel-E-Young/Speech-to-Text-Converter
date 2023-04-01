@@ -70,4 +70,4 @@ let SpeechRecognition =
         console.log(error);
     }
 }
-recordBtn
+recordBtn.addEventListener
