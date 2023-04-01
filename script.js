@@ -73,7 +73,9 @@ let SpeechRecognition =
 recordBtn.addEventListener("click", ()=> {
     if (!recording) {
         speechToText();
-        recording=true
+        recording=true;
+    } else {
+        
     }
 
 }
