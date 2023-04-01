@@ -61,6 +61,6 @@ let SpeechRecognition =
         } else if (event.error === "aborted") {
             alert("Listening Stopped");
         } else {
-            alert("Error occured in Recognition")
+            alert("Error occured in recognition: ")
         }
      } 
