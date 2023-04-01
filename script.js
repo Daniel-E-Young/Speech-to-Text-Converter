@@ -75,7 +75,7 @@ recordBtn.addEventListener("click", ()=> {
         speechToText();
         recording=true;
     } else {
-        
+        stopRecording();
     }
 
 }
