@@ -71,7 +71,9 @@ let SpeechRecognition =
     }
 }
 recordBtn.addEventListener("click", ()=> {
-    if (!recording) 
+    if (!recording) {
+        speechToText
+    }
 
 }
 
