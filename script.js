@@ -67,5 +67,5 @@ let SpeechRecognition =
     } catch (error) {
         recording = false;
 
-        
+        console.log()
     }
