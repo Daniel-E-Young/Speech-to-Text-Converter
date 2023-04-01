@@ -60,5 +60,7 @@ let SpeechRecognition =
             alert("Permission to use microphone is blocked.");
         } else if (event.error === "aborted") {
             alert("Listening Stopped");
+        } else {
+            
         }
      } 
