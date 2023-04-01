@@ -70,4 +70,9 @@ let SpeechRecognition =
         console.log(error);
     }
 }
-recordBtn.addEventListener("click", ())
+recordBtn.addEventListener("click", ()=> {
+
+    
+}
+
+)
