@@ -65,5 +65,5 @@ let SpeechRecognition =
         }
      };
     } catch (error) {
-        
+        recording = 
     }
