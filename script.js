@@ -63,4 +63,4 @@ let SpeechRecognition =
         } else {
             alert("Error occured in recognition: " + event.error);
         }
-     } 
+     };
