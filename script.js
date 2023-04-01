@@ -64,4 +64,4 @@ let SpeechRecognition =
             alert("Error occured in recognition: " + event.error);
         }
      };
-    } 
+    } catch ()
