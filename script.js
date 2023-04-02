@@ -80,6 +80,6 @@ recordBtn.addEventListener("click", ()=> {
 });
 
 function download() {
-    const text = result.innerHTML
+    const text = result.inner
 
 }
