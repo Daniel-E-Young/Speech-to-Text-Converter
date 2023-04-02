@@ -85,6 +85,7 @@ function download() {
 
     const element = document.createElement("a");
     element.setAttribute(
-        "href"
+        "href",
+        "data"
     )
 }
