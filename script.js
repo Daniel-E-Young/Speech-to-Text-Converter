@@ -84,5 +84,7 @@ function download() {
     const filename = "speech.txt";
 
     const element = document.createElement("a");
-    element.setAttribute
+    element.setAttribute(
+        "href"
+    )
 }
