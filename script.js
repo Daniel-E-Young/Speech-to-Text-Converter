@@ -86,6 +86,6 @@ function download() {
     const element = document.createElement("a");
     element.setAttribute(
         "href",
-        "data:text/plain;charset"
+        "data:text/plain;charset=utf-8,"
     )
 }
