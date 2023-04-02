@@ -83,5 +83,6 @@ function download() {
     const text = result.innerText;
     const filename = "speech.txt";
 
-    const element = document.createElement("a")
+    const element = document.createElement("a");
+    element.setAttribute
 }
