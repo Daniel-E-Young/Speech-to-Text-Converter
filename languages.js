@@ -306,7 +306,7 @@ const languages = [
         code: "sv",
     },
     {
-        no: "54",
+        no: "55",
         name: "Thai",
         native: "ไทย",
         code: "th",
