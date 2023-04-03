@@ -64,12 +64,11 @@ let SpeechRecognition =
             alert("Error occured in recognition: " + event.error);
         }
      };
-    } catch (error) {
+catch (error) {
         recording = false;
 
         console.log(error);
     }
-}
 recordBtn.addEventListener("click", ()=> {
     if (!recording) {
         speechToText();
