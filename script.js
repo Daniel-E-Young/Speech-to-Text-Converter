@@ -90,5 +90,6 @@ function download() {
     );
     element.setAttribute("download", filename);
     element.style.display = "none";
-    document.body.appendChild(element)
+    document.body.appendChild(element);
+    element.click();
 }
