@@ -99,4 +99,4 @@ downloadBtn.addEventListener("click", download);
 claearBtn.addEventListener("click", () => {
     result.innerHTML="";
     downloadBtn.disabled = true;
-}
+});
