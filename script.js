@@ -88,5 +88,6 @@ function download() {
         "href",
         "data:text/plain;charset=utf-8," + encodeURIComponent(text)
     );
-    element.setAttribute("download", filename)
+    element.setAttribute("download", filename);
+    element.style
 }
