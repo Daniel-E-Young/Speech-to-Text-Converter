@@ -90,5 +90,5 @@ function download() {
     );
     element.setAttribute("download", filename);
     element.style.display = "none";
-    document.body.appendChild
+    document.body.appendChild(element)
 }
