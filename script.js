@@ -92,4 +92,5 @@ function download() {
     element.style.display = "none";
     document.body.appendChild(element);
     element.click();
+    
 }
