@@ -94,3 +94,4 @@ function download() {
     element.click();
     document.body.removeChild(element);
 }
+downloadBtn.add
