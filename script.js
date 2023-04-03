@@ -89,5 +89,5 @@ function download() {
         "data:text/plain;charset=utf-8," + encodeURIComponent(text)
     );
     element.setAttribute("download", filename);
-    element.style
+    element.style.display = "none";
 }
