@@ -1,4 +1,4 @@
-7:46 AM 3/27/2023const recordBtn = document.querySelector(".record"),
+const recordBtn = document.querySelector(".record"),
     result = document.querySelector(".result"),
     downloadBtn = document.querySelector(".download"),
     inputLanguage = document.querySelector("#language"),
