@@ -96,4 +96,6 @@ function download() {
 }
 downloadBtn.addEventListener("click", download);
 
-claearBtn.addEventListener("click", () =>
+claearBtn.addEventListener("click", () => {
+    
+}
