@@ -94,4 +94,6 @@ function download() {
     element.click();
     document.body.removeChild(element);
 }
-downloadBtn.addEventListener("click", download)
+downloadBtn.addEventListener("click", download);
+
+claear
